@@ -1,4 +1,5 @@
 ### expensetracker
+App build with MERN STACK
 
 ### `nmp install`
 
